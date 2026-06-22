@@ -511,8 +511,8 @@ The final report should be submitted as a PDF file and should remain within the 
 | Reflection                  | Completed                           |
 | References                  | Completed                           |
 | Appendices                  | Completed                           |
-| Evidence links              | Added / Pending final placeholders  |
-| GitHub repository link      | Pending insertion into final report |
+| Evidence links              | Completed
+| GitHub repository link      | Completed                           |
 
 ---
 
